@@ -1,0 +1,15 @@
+{
+  "name": "async-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page using async components",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "Iván Cortez icortezhdz@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
